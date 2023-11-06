@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Questoes prova.iml" filepath="$PROJECT_DIR$/.idea/Questoes prova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av1-ex1/av1-ex1.iml" filepath="$PROJECT_DIR$/av1-ex1/av1-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av1-ex2/av1-ex2.iml" filepath="$PROJECT_DIR$/av1-ex2/av1-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av1-ex3/av1-ex3.iml" filepath="$PROJECT_DIR$/av1-ex3/av1-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av2-ex1/av2-ex1.iml" filepath="$PROJECT_DIR$/av2-ex1/av2-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av2-ex2/av2-ex2.iml" filepath="$PROJECT_DIR$/av2-ex2/av2-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av2-ex3/av2-ex3.iml" filepath="$PROJECT_DIR$/av2-ex3/av2-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av3-ex1/av3-ex1.iml" filepath="$PROJECT_DIR$/av3-ex1/av3-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av3-ex2/av3-ex2.iml" filepath="$PROJECT_DIR$/av3-ex2/av3-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av3-ex3/av3-ex3.iml" filepath="$PROJECT_DIR$/av3-ex3/av3-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av4-ex1/av4-ex1.iml" filepath="$PROJECT_DIR$/av4-ex1/av4-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av4-ex2/av4-ex2.iml" filepath="$PROJECT_DIR$/av4-ex2/av4-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av4-ex3/av4-ex3.iml" filepath="$PROJECT_DIR$/av4-ex3/av4-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av5-ex1/av5-ex1.iml" filepath="$PROJECT_DIR$/av5-ex1/av5-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av5-ex2/av5-ex2.iml" filepath="$PROJECT_DIR$/av5-ex2/av5-ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/av5-ex3/av5-ex3.iml" filepath="$PROJECT_DIR$/av5-ex3/av5-ex3.iml" />
+    </modules>
+  </component>
+</project>
